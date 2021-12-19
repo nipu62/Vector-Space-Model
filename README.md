@@ -11,3 +11,10 @@ The following measures are used as vector elements:
 
 **Notes**:
 Provide the value for K to display top K closest documents
+
+# Probabilistic-Retrieval-Model
+
+This program implements the binary independence model and displays the top 10 documents with high Retrieval Status Value (RSV).
+
+**Notes**:
+1. All related resources such as documents, file_label.txt, query.txt should be in the programs current working directory.
