@@ -18,3 +18,10 @@ This program implements the binary independence model and displays the top 10 do
 
 **Notes**:
 1. All related resources such as documents, file_label.txt, query.txt should be in the programs current working directory.
+
+# Statistical Computation:
+
+**Steps**:
+1. This program will read contents from Sonnets.txt file and count words for each sonnet. 
+2. The sonnet number and word counts will be stored in a dictionary. 
+3. Then the mean, median and standard deviations are calculated using the python statistics module.
